@@ -1,4 +1,7 @@
 # REYES-John-Carl-A-Midterm-HO
 REYES, John Carl A-Midterm Drill BSIT3 B2
 
-https://github.com/EMULSIFI3R/REYES-John-Carl-A-Midterm-HO.git
+THIS LINK IS FOR THE VIDEO EXPLAINER.
+VIDEO IS TOO LARGE TO BE UPLADED IN GITHUB DUE TO HIGH RESOLUTION FOR CODE CLARITY
+
+https://drive.google.com/file/d/1X68nvOPhkdpQTSpBjzs29OHO0q50XVOa/view?usp=share_link
