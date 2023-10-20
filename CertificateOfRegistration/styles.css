@@ -3,30 +3,19 @@ body {
     padding: 3rem;
     
 }
-.container {
-    width: 100%;
-    margin: 0 auto;
-}
-.certificate {
-    border: 2px solid #000;
-    background-color: #88accb;
-    text-align: center;
-    font-weight: bold;
-}
+
 .header {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
-img {
-    max-width: 100px; /* Adjust the maximum width of the image as needed */
-    margin-right: 20px; /* Adjust the margin for spacing between the image and text */
+.container {
+    width: 100%;
+    margin: 0 auto;
 }
-.sub {
-    font-size: 8px;
-    text-align: center;
-    padding: 5px;
+img {
+    max-width: 100px;
+    margin-right: 20px;
 }
 .subtop {
     font-size: 8px;
@@ -36,15 +25,22 @@ img {
 .subtitle{
     text-align: center;
 }
+.sub {
+    font-size: 8px;
+    text-align: center;
+    padding: 5px;
+}
 .title{
     text-align: center;
-    font-weight: 800;
+    font-weight: 900;
     letter-spacing: 2.5mm;
 }
 .certificate {
     border: 1px solid #000;
     background-color: #CCCCFF;
     padding: 5px;
+    text-align: center;
+    font-weight: bold;
 }
 
 .course-header table {
@@ -70,7 +66,9 @@ table {
 .regnum span{ 
     color: rgb(180, 0, 0)
 }
-
+.regnum {
+    padding-left: 35px;
+}
 .info-container {
     display: flex;
     padding-left: 20px;
@@ -78,26 +76,15 @@ table {
 
 .right-info {
     margin-left: 100px;
+    font-style: italic;
 }
 .sub {
     font-size: 8px;
     text-align: center;
 }
-.title{
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 20px;
-    margin-top: 20px;
-}
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
 .refund{
     text-align: center;
-    padding: 10px;
-}
+    padding: 10px;}
 .inf {
     margin: 20px 0;
 }
@@ -106,7 +93,7 @@ table {
     
 }
 .left-info2 {
-    margin-left: 30px;
+    margin-left: 5px;
     margin-bottom: 500px;
     border: 1px solid black;
     padding: 0 150px 0 40px;
@@ -120,9 +107,7 @@ table {
     margin-left: -41px;
     font-weight: 900;
     letter-spacing: 2.5mm;
-
 }
-
 .approved {
     text-align: right;
     margin: -20% 30% 10% 0;
@@ -151,10 +136,6 @@ table {
     font-style: italic;
     font-weight: lighter;
     font-size: small;
-}
-.right-info {
-    font-weight: lighter;
-    font-style: italic;
 }
 .text-size {
     list-style-type: none;
